@@ -91,7 +91,7 @@ def render(stats):
     for i in range(25):
         text(394,35+i*23,'·','#616e7f')
     heading(0,'owen@stanford')
-    row(1,'Name','Haowen (Owen) Chen')
+    row(1,'Name','Owen Haowen Chen')
     row(2,'OS','macOS')
     row(3,'Uptime',f'{days} days on GitHub')
     row(4,'Host','Stanford University')
