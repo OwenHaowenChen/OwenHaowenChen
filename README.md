@@ -1,4 +1,4 @@
-<a href="https://github.com/OwenHaowenChen"><img src="./profile.svg" alt="Owen Chen's terminal profile: engineering, heat transfer, code, and a little Patrick energy." width="100%" /></a>
+<a href="https://github.com/OwenHaowenChen"><img src="./profile.svg?v=live" alt="Owen Chen's terminal profile: engineering, heat transfer, code, and a little Patrick energy." width="100%" /></a>
 
 Building things where **mechanical design, heat transfer, and code** meet.
 
