@@ -47,7 +47,7 @@ def render(stats):
     days = (now-created).days
     svg = ['<svg xmlns="http://www.w3.org/2000/svg" width="1110" height="640" viewBox="0 0 1110 640" role="img" aria-labelledby="title desc">',
            '<title id="title">Owen Chen | neofetch</title>',
-           '<desc id="desc">Monochrome ASCII Patrick portrait, engineering profile, and daily public GitHub statistics.</desc>',
+           '<desc id="desc">Color ASCII Patrick portrait, engineering profile, and daily public GitHub statistics.</desc>',
            '<rect width="1110" height="640" rx="18" fill="#161b22"/>',
            '<style>text,tspan{white-space:pre}text{font-family:Menlo,Consolas,"Liberation Mono",monospace;font-weight:400}.key{fill:#ffa657}.value{fill:#a5d6ff}.muted{fill:#616e7f}.text{fill:#c9d1d9}</style>']
     # A single monospace grid keeps all dot leaders and right edges aligned.
@@ -74,9 +74,19 @@ def render(stats):
         svg.append(f'<path d="M{X+len(value)*CELL} {y-5}H1086" stroke="#c9d1d9" stroke-width="1.2"/>')
     # Render each ASCII row as text rather than hundreds of disconnected pixels.
     art=json.loads((ROOT/'avatar.json').read_text())
-    for i,line in enumerate(art):
+    for i,entry in enumerate(art):
+        line=entry['text']
         length=len(line)*8.4
-        svg.append(f'<text x="14" y="{80+i*16.8:.1f}" fill="#c9d1d9" font-size="14" textLength="{length:.2f}" lengthAdjust="spacingAndGlyphs" xml:space="preserve">{html.escape(line)}</text>')
+        if not line:
+            continue
+        runs=[]
+        for char,color in zip(line,entry['colors']):
+            if runs and runs[-1][0]==color:
+                runs[-1][1]+=char
+            else:
+                runs.append([color,char])
+        spans=''.join(f'<tspan fill="{color}">{html.escape(chars)}</tspan>' for color,chars in runs)
+        svg.append(f'<text x="14" y="{80+i*16.8:.1f}" font-size="14" textLength="{length:.2f}" lengthAdjust="spacingAndGlyphs" xml:space="preserve">{spans}</text>')
     # The dotted vertical separator follows the same rhythm as the information.
     for i in range(25):
         text(394,35+i*23,'·','#616e7f')
