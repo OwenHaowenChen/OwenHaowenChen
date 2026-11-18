@@ -62,7 +62,7 @@ def render(stats):
     svg.append('<path d="M378 118V526" stroke="#30363d"/>')
     text(406,137,'owen@stanford',23,'#ff9b94',True)
     text(406,162,'-------------------------------',15,'#484f58')
-    fields=[('Name','Haowen (Owen) Chen'),('OS','macOS / engineer mode'),('Host','Stanford University'),('Kernel','Mechanical → Environmental Eng.'),('Uptime',f'{age} days on GitHub'),('Education','ZJU + UIUC → Stanford MS'),('Focus','Product design · Heat transfer'),('Research','Capillary-driven desalination'),('Languages','Python · MATLAB · Arduino'),('Tools','SolidWorks · Fluent · ROS'),('Human','English · Mandarin'),('Side quests','Prototyping · Robotics · Road trips')]
+    fields=[('Name','Haowen (Owen) Chen'),('OS','macOS / engineer mode'),('Host','Stanford University'),('Kernel','Mechanical → Environmental Eng.'),('Uptime',f'{age} days on GitHub'),('Education','ZJU + UIUC → Stanford MS'),('Focus','Product design · Heat transfer'),('Languages','Python · MATLAB · Arduino'),('Tools','SolidWorks · Fluent · ROS'),('Side quests','Prototyping · Robotics · Road trips')]
     for i,(label,value) in enumerate(fields):
         y=190+i*26
         text(406,y,label+':',15,'#79c0ff',True)
