@@ -727,16 +727,12 @@
 <text x="522" y="320" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">ZJU + UIUC → Stanford MS</text>
 <text x="406" y="346" fill="#79c0ff" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" xml:space="preserve">Focus:</text>
 <text x="522" y="346" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">Product design · Heat transfer</text>
-<text x="406" y="372" fill="#79c0ff" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" xml:space="preserve">Research:</text>
-<text x="522" y="372" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">Capillary-driven desalination</text>
-<text x="406" y="398" fill="#79c0ff" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" xml:space="preserve">Languages:</text>
-<text x="522" y="398" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">Python · MATLAB · Arduino</text>
-<text x="406" y="424" fill="#79c0ff" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" xml:space="preserve">Tools:</text>
-<text x="522" y="424" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">SolidWorks · Fluent · ROS</text>
-<text x="406" y="450" fill="#79c0ff" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" xml:space="preserve">Human:</text>
-<text x="522" y="450" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">English · Mandarin</text>
-<text x="406" y="476" fill="#79c0ff" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" xml:space="preserve">Side quests:</text>
-<text x="522" y="476" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">Prototyping · Robotics · Road trips</text>
+<text x="406" y="372" fill="#79c0ff" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" xml:space="preserve">Languages:</text>
+<text x="522" y="372" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">Python · MATLAB · Arduino</text>
+<text x="406" y="398" fill="#79c0ff" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" xml:space="preserve">Tools:</text>
+<text x="522" y="398" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">SolidWorks · Fluent · ROS</text>
+<text x="406" y="424" fill="#79c0ff" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" xml:space="preserve">Side quests:</text>
+<text x="522" y="424" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">Prototyping · Robotics · Road trips</text>
 <rect x="406" y="508" width="27" height="16" fill="#ff7b72"/>
 <rect x="433" y="508" width="27" height="16" fill="#ffa657"/>
 <rect x="460" y="508" width="27" height="16" fill="#e3b341"/>
@@ -751,9 +747,9 @@
 <text x="281" y="576" fill="#8b949e" font-family="Menlo,Consolas,monospace" font-size="11" font-weight="400" xml:space="preserve">STARS / OWNED</text>
 <text x="281" y="609" fill="#7ee787" font-family="Menlo,Consolas,monospace" font-size="26" font-weight="700" xml:space="preserve">0</text>
 <text x="530" y="576" fill="#8b949e" font-family="Menlo,Consolas,monospace" font-size="11" font-weight="400" xml:space="preserve">COMMITS / 365D</text>
-<text x="530" y="609" fill="#7ee787" font-family="Menlo,Consolas,monospace" font-size="26" font-weight="700" xml:space="preserve">8</text>
+<text x="530" y="609" fill="#7ee787" font-family="Menlo,Consolas,monospace" font-size="26" font-weight="700" xml:space="preserve">10</text>
 <text x="779" y="576" fill="#8b949e" font-family="Menlo,Consolas,monospace" font-size="11" font-weight="400" xml:space="preserve">CONTRIBS / 365D</text>
-<text x="779" y="609" fill="#7ee787" font-family="Menlo,Consolas,monospace" font-size="26" font-weight="700" xml:space="preserve">10</text>
+<text x="779" y="609" fill="#7ee787" font-family="Menlo,Consolas,monospace" font-size="26" font-weight="700" xml:space="preserve">12</text>
 <text x="32" y="640" fill="#8b949e" font-family="Menlo,Consolas,monospace" font-size="11" font-weight="400" xml:space="preserve">public GitHub activity · refreshed daily</text>
-<text x="690" y="640" fill="#8b949e" font-family="Menlo,Consolas,monospace" font-size="11" font-weight="400" xml:space="preserve">updated 2026-11-18 07:40 UTC</text>
+<text x="690" y="640" fill="#8b949e" font-family="Menlo,Consolas,monospace" font-size="11" font-weight="400" xml:space="preserve">updated 2026-11-18 07:44 UTC</text>
 </svg>
