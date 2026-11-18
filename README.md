@@ -1,17 +1,5 @@
-<a href="https://github.com/OwenHaowenChen"><img src="./profile.svg?v=live" alt="Owen Chen's terminal profile: engineering, heat transfer, code, and a little Patrick energy." width="100%" /></a>
+<a href="https://github.com/OwenHaowenChen">
+  <img src="https://raw.githubusercontent.com/OwenHaowenChen/OwenHaowenChen/main/profile.svg?v=neofetch-v2" alt="Owen Chen: neofetch profile with an ASCII Patrick portrait and public GitHub statistics" width="100%" />
+</a>
 
-Building things where **mechanical design, heat transfer, and code** meet.
-
-[GitHub](https://github.com/OwenHaowenChen) · [Focus Flock](https://github.com/CS193V-FOCUS-FLOCK/Final-Project-FOCUS-FLOCK)
-
-<details>
-<summary><code>cat about-this-terminal.txt</code></summary>
-
-- Stanford MS in Civil & Environmental Engineering; mechanical engineering degrees from ZJU and UIUC.
-- Interested in product design, thermal systems, robotics, and hands-on prototyping.
-- The ASCII mascot comes from my uploaded Patrick picture.
-- GitHub Actions refreshes the card daily. Uptime means account age.
-- Repository counts are public owned repositories. Stars exclude forks. Commits and contributions use GitHub's rolling one-year contribution window and the data visible to the workflow token.
-- Customize the profile in `update_profile.py`; the character art is in `avatar.json`.
-
-</details>
+<!-- Layout inspired by https://github.com/Andrew6rant/Andrew6rant. Personalize update_profile.py and avatar.json. Stats show public activity; commits and contributions cover the rolling previous year. Uptime is GitHub account age. -->

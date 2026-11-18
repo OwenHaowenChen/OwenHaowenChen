@@ -1,755 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="660" viewBox="0 0 1040 660" role="img" aria-labelledby="title desc">
-<title id="title">Owen Chen | terminal profile</title>
-<desc id="desc">Color ASCII Patrick in a Santa hat beside Owen's engineering background and automatically refreshed public GitHub statistics.</desc>
-<rect x="1" y="1" width="1038" height="658" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
-<path d="M19 1H1021Q1039 1 1039 19V53H1V19Q1 1 19 1" fill="#161b22"/>
-<circle cx="25" cy="27" r="6" fill="#ff5f57"/>
-<circle cx="47" cy="27" r="6" fill="#febc2e"/>
-<circle cx="69" cy="27" r="6" fill="#28c840"/>
-<text x="380" y="32" fill="#8b949e" font-family="Menlo,Consolas,monospace" font-size="14" font-weight="400" xml:space="preserve">owen@stanford: ~</text>
-<text x="30" y="87" fill="#7ee787" font-family="Menlo,Consolas,monospace" font-size="19" font-weight="400" xml:space="preserve">❯</text>
-<text x="54" y="87" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="16" font-weight="400" xml:space="preserve">neofetch --user owen</text>
-<text x="95.60000000000001" y="126.3" fill="#4e523c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="103.0" y="126.3" fill="#563e36" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="110.4" y="126.3" fill="#573930" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">%</text>
-<text x="117.80000000000001" y="126.3" fill="#60453a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="125.2" y="126.3" fill="#4f4635" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="80.80000000000001" y="137.6" fill="#743f39" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="88.2" y="137.6" fill="#b62a44" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="95.60000000000001" y="137.6" fill="#d12a4e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="103.0" y="137.6" fill="#de2751" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="110.4" y="137.6" fill="#e82454" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="117.80000000000001" y="137.6" fill="#e32653" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="125.2" y="137.6" fill="#dd2853" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="132.60000000000002" y="137.6" fill="#d4274e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="140.0" y="137.6" fill="#bd2944" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="147.4" y="137.6" fill="#95383e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="154.8" y="137.6" fill="#664c39" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="73.4" y="148.9" fill="#94303b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="80.80000000000001" y="148.9" fill="#e9234f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="88.2" y="148.9" fill="#ef2652" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="95.60000000000001" y="148.9" fill="#ea2852" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="103.0" y="148.9" fill="#ed2551" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="110.4" y="148.9" fill="#ee2553" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="117.80000000000001" y="148.9" fill="#ec2654" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="125.2" y="148.9" fill="#ec2654" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="132.60000000000002" y="148.9" fill="#ed2654" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="140.0" y="148.9" fill="#ef2552" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="147.4" y="148.9" fill="#ee2653" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="154.8" y="148.9" fill="#e62350" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="162.20000000000002" y="148.9" fill="#c72446" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="169.6" y="148.9" fill="#803d3a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="66.0" y="160.2" fill="#773233" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="73.4" y="160.2" fill="#e62751" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="80.80000000000001" y="160.2" fill="#eb2852" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="88.2" y="160.2" fill="#e42950" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="95.60000000000001" y="160.2" fill="#ea2750" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="103.0" y="160.2" fill="#eb2750" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="110.4" y="160.2" fill="#eb2652" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="117.80000000000001" y="160.2" fill="#eb2652" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="125.2" y="160.2" fill="#ec2652" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="132.60000000000002" y="160.2" fill="#ec2652" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="140.0" y="160.2" fill="#eb2653" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="147.4" y="160.2" fill="#e82854" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="154.8" y="160.2" fill="#ea2658" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="162.20000000000002" y="160.2" fill="#ee265a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="169.6" y="160.2" fill="#f22252" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="177.0" y="160.2" fill="#ca2140" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="184.4" y="160.2" fill="#7b382f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="66.0" y="171.5" fill="#b62843" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="73.4" y="171.5" fill="#ef2753" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="80.80000000000001" y="171.5" fill="#ec2651" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="88.2" y="171.5" fill="#ec2652" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="95.60000000000001" y="171.5" fill="#eb2652" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="103.0" y="171.5" fill="#eb2752" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="110.4" y="171.5" fill="#eb2652" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="117.80000000000001" y="171.5" fill="#eb2652" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="125.2" y="171.5" fill="#eb2652" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="132.60000000000002" y="171.5" fill="#eb2651" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="140.0" y="171.5" fill="#e9254f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="147.4" y="171.5" fill="#e7214d" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="154.8" y="171.5" fill="#e8204a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="162.20000000000002" y="171.5" fill="#e91f4b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="169.6" y="171.5" fill="#d23359" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="177.0" y="171.5" fill="#db5076" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="184.4" y="171.5" fill="#d15c82" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="191.8" y="171.5" fill="#935b6a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="58.6" y="182.8" fill="#635540" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="66.0" y="182.8" fill="#db254d" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="73.4" y="182.8" fill="#ee2551" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="80.80000000000001" y="182.8" fill="#e52a51" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="88.2" y="182.8" fill="#ec2552" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="95.60000000000001" y="182.8" fill="#eb2551" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="103.0" y="182.8" fill="#ec2854" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="110.4" y="182.8" fill="#ec2653" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="117.80000000000001" y="182.8" fill="#ec2651" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="125.2" y="182.8" fill="#ed2550" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="132.60000000000002" y="182.8" fill="#e6224f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="140.0" y="182.8" fill="#d83f67" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="147.4" y="182.8" fill="#d27698" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="182.8" fill="#d693ab" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="162.20000000000002" y="182.8" fill="#d191a5" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="169.6" y="182.8" fill="#e3c5d1" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="177.0" y="182.8" fill="#eef5f7" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="184.4" y="182.8" fill="#f0fdff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="191.8" y="182.8" fill="#f1f6fa" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="199.20000000000002" y="182.8" fill="#fdfcff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="206.60000000000002" y="182.8" fill="#fdffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="58.6" y="194.10000000000002" fill="#6f473a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="66.0" y="194.10000000000002" fill="#e72450" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="73.4" y="194.10000000000002" fill="#ec2751" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="80.80000000000001" y="194.10000000000002" fill="#ee2754" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="88.2" y="194.10000000000002" fill="#d21e48" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="95.60000000000001" y="194.10000000000002" fill="#cd1e46" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="103.0" y="194.10000000000002" fill="#d81f4a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="110.4" y="194.10000000000002" fill="#eb2353" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="117.80000000000001" y="194.10000000000002" fill="#e81f52" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="125.2" y="194.10000000000002" fill="#dd265a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="132.60000000000002" y="194.10000000000002" fill="#cf8098" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="140.0" y="194.10000000000002" fill="#dee8e9" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="147.4" y="194.10000000000002" fill="#f5feff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="154.8" y="194.10000000000002" fill="#f8ffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="162.20000000000002" y="194.10000000000002" fill="#f9ffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="169.6" y="194.10000000000002" fill="#fbffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="177.0" y="194.10000000000002" fill="#fdffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="184.4" y="194.10000000000002" fill="#fcffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="191.8" y="194.10000000000002" fill="#fafcff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="199.20000000000002" y="194.10000000000002" fill="#faffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="206.60000000000002" y="194.10000000000002" fill="#ffffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="214.0" y="194.10000000000002" fill="#c8e0db" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="58.6" y="205.4" fill="#76453c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="66.0" y="205.4" fill="#ee2352" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="73.4" y="205.4" fill="#ee2652" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="80.80000000000001" y="205.4" fill="#c52647" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="88.2" y="205.4" fill="#6f423e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="95.60000000000001" y="205.4" fill="#5d513e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="103.0" y="205.4" fill="#664737" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="110.4" y="205.4" fill="#8b3e4a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="117.80000000000001" y="205.4" fill="#ca88a2" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="125.2" y="205.4" fill="#e0c4da" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="132.60000000000002" y="205.4" fill="#edf6f9" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="140.0" y="205.4" fill="#feffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="147.4" y="205.4" fill="#fdffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="154.8" y="205.4" fill="#fffdff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="162.20000000000002" y="205.4" fill="#f8ffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="169.6" y="205.4" fill="#dcdddd" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="177.0" y="205.4" fill="#e3dad6" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="184.4" y="205.4" fill="#e6cccb" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="191.8" y="205.4" fill="#d4b1b3" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="199.20000000000002" y="205.4" fill="#dec8c5" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="206.60000000000002" y="205.4" fill="#ebdcdb" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="214.0" y="205.4" fill="#f4fafc" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="58.6" y="216.7" fill="#744236" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="66.0" y="216.7" fill="#ef1d4e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="73.4" y="216.7" fill="#ca2444" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="80.80000000000001" y="216.7" fill="#5d4e3a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="117.80000000000001" y="216.7" fill="#eeffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="125.2" y="216.7" fill="#fffffd" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="132.60000000000002" y="216.7" fill="#fffdfa" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="140.0" y="216.7" fill="#fdfefe" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="147.4" y="216.7" fill="#edf7f9" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="154.8" y="216.7" fill="#eee5ea" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="162.20000000000002" y="216.7" fill="#dcc7c5" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="169.6" y="216.7" fill="#da9191" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="177.0" y="216.7" fill="#ed8183" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="184.4" y="216.7" fill="#eb827e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="191.8" y="216.7" fill="#eb847a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="199.20000000000002" y="216.7" fill="#ee8179" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="216.7" fill="#e18381" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="214.0" y="216.7" fill="#daa8a4" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="58.6" y="228.0" fill="#877c78" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="66.0" y="228.0" fill="#cc5f83" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="73.4" y="228.0" fill="#674c3a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="117.80000000000001" y="228.0" fill="#b7cfca" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="125.2" y="228.0" fill="#f7faf9" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="132.60000000000002" y="228.0" fill="#fefcfc" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="140.0" y="228.0" fill="#edf8f8" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="147.4" y="228.0" fill="#d1b3b4" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="154.8" y="228.0" fill="#eb8389" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="162.20000000000002" y="228.0" fill="#e7857c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="169.6" y="228.0" fill="#f0847f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="177.0" y="228.0" fill="#f38380" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="184.4" y="228.0" fill="#ed8581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="191.8" y="228.0" fill="#eb8780" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="199.20000000000002" y="228.0" fill="#ef857f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="228.0" fill="#f28481" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="214.0" y="228.0" fill="#eb827d" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="221.4" y="228.0" fill="#b77267" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="228.8" y="228.0" fill="#5a5f3e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="58.6" y="239.3" fill="#f3fefd" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="66.0" y="239.3" fill="#eefaf8" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="125.2" y="239.3" fill="#91aca8" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="132.60000000000002" y="239.3" fill="#f8ffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="140.0" y="239.3" fill="#d9c0be" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="147.4" y="239.3" fill="#e58080" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="239.3" fill="#f2837c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="162.20000000000002" y="239.3" fill="#ec8680" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="169.6" y="239.3" fill="#ed8581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="177.0" y="239.3" fill="#ed8681" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="184.4" y="239.3" fill="#ee8582" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="191.8" y="239.3" fill="#ee8680" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="199.20000000000002" y="239.3" fill="#ee867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="239.3" fill="#ee8580" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="214.0" y="239.3" fill="#f08580" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="221.4" y="239.3" fill="#fa8482" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="228.8" y="239.3" fill="#c3766a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="43.8" y="250.60000000000002" fill="#e9fdfe" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="51.2" y="250.60000000000002" fill="#fffffc" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="58.6" y="250.60000000000002" fill="#fefffe" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="66.0" y="250.60000000000002" fill="#fdfffd" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="73.4" y="250.60000000000002" fill="#ffffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="80.80000000000001" y="250.60000000000002" fill="#eefdff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="140.0" y="250.60000000000002" fill="#ba9186" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="147.4" y="250.60000000000002" fill="#ed8078" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="250.60000000000002" fill="#eb887f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="162.20000000000002" y="250.60000000000002" fill="#f18384" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="169.6" y="250.60000000000002" fill="#ef857f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="177.0" y="250.60000000000002" fill="#ed867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="184.4" y="250.60000000000002" fill="#ec877f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="191.8" y="250.60000000000002" fill="#ef877d" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="199.20000000000002" y="250.60000000000002" fill="#ef867e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="250.60000000000002" fill="#ed8681" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="214.0" y="250.60000000000002" fill="#ed8583" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="221.4" y="250.60000000000002" fill="#f88481" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="228.8" y="250.60000000000002" fill="#ee877c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="236.20000000000002" y="250.60000000000002" fill="#9b6b53" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="51.2" y="261.9" fill="#ffffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="58.6" y="261.9" fill="#ffffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="66.0" y="261.9" fill="#ffffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="73.4" y="261.9" fill="#ffffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="80.80000000000001" y="261.9" fill="#e3f4f3" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="140.0" y="261.9" fill="#806a4d" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="147.4" y="261.9" fill="#ec847b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="261.9" fill="#ec8780" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="162.20000000000002" y="261.9" fill="#ed8582" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="169.6" y="261.9" fill="#ed867e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="177.0" y="261.9" fill="#f48580" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="184.4" y="261.9" fill="#f0867e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="191.8" y="261.9" fill="#e18278" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="199.20000000000002" y="261.9" fill="#e38279" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="261.9" fill="#ee867d" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="214.0" y="261.9" fill="#f6877f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="221.4" y="261.9" fill="#cc7576" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="228.8" y="261.9" fill="#a47189" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="236.20000000000002" y="261.9" fill="#a882ab" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="243.60000000000002" y="261.9" fill="#80718e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="251.0" y="261.9" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">%</text>
-<text x="58.6" y="273.20000000000005" fill="#d3eae6" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="66.0" y="273.20000000000005" fill="#c2dad5" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="73.4" y="273.20000000000005" fill="#c8dfdb" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="140.0" y="273.20000000000005" fill="#7e6a49" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="147.4" y="273.20000000000005" fill="#ec827b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="273.20000000000005" fill="#ed8882" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="162.20000000000002" y="273.20000000000005" fill="#f08c85" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="169.6" y="273.20000000000005" fill="#fe877f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="177.0" y="273.20000000000005" fill="#da7b7d" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="184.4" y="273.20000000000005" fill="#9c657a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="191.8" y="273.20000000000005" fill="#a578a0" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="199.20000000000002" y="273.20000000000005" fill="#a9799e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="273.20000000000005" fill="#ad7084" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="214.0" y="273.20000000000005" fill="#b26d72" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="221.4" y="273.20000000000005" fill="#906d8a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="228.8" y="273.20000000000005" fill="#b398d9" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="236.20000000000002" y="273.20000000000005" fill="#987abc" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="243.60000000000002" y="273.20000000000005" fill="#857097" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="251.0" y="273.20000000000005" fill="#9c8eaa" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="258.4" y="273.20000000000005" fill="#434448" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="140.0" y="284.5" fill="#7a6747" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="147.4" y="284.5" fill="#ec837c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="284.5" fill="#cc7974" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="162.20000000000002" y="284.5" fill="#a05d5c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="169.6" y="284.5" fill="#bd6d6f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="177.0" y="284.5" fill="#906781" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="184.4" y="284.5" fill="#bd9fe3" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="191.8" y="284.5" fill="#c9a2f4" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="199.20000000000002" y="284.5" fill="#af93d8" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="284.5" fill="#a18dbd" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="214.0" y="284.5" fill="#716482" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="221.4" y="284.5" fill="#6e657c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="228.8" y="284.5" fill="#8a8391" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="236.20000000000002" y="284.5" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">@</text>
-<text x="243.60000000000002" y="284.5" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">@</text>
-<text x="251.0" y="284.5" fill="#929999" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="258.4" y="284.5" fill="#e7ecec" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="140.0" y="295.8" fill="#84684a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="147.4" y="295.8" fill="#ef807b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="295.8" fill="#935a58" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="162.20000000000002" y="295.8" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">@</text>
-<text x="169.6" y="295.8" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">@</text>
-<text x="177.0" y="295.8" fill="#7d779b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="184.4" y="295.8" fill="#aa97c0" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="191.8" y="295.8" fill="#5f5667" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="199.20000000000002" y="295.8" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">@</text>
-<text x="206.60000000000002" y="295.8" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">%</text>
-<text x="214.0" y="295.8" fill="#cdd4d2" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="221.4" y="295.8" fill="#a3a9a6" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="228.8" y="295.8" fill="#afb3b2" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="236.20000000000002" y="295.8" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">@</text>
-<text x="243.60000000000002" y="295.8" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">@</text>
-<text x="251.0" y="295.8" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">%</text>
-<text x="258.4" y="295.8" fill="#f9fefe" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="140.0" y="307.1" fill="#916b50" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="147.4" y="307.1" fill="#f28682" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="307.1" fill="#ae6d64" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="162.20000000000002" y="307.1" fill="#895450" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="169.6" y="307.1" fill="#744c4c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="177.0" y="307.1" fill="#abacaf" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="184.4" y="307.1" fill="#fafdfc" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="191.8" y="307.1" fill="#8d9493" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="199.20000000000002" y="307.1" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">@</text>
-<text x="206.60000000000002" y="307.1" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">@</text>
-<text x="214.0" y="307.1" fill="#6b6c70" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="221.4" y="307.1" fill="#dfe1e2" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="228.8" y="307.1" fill="#abadaf" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="236.20000000000002" y="307.1" fill="#818082" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="243.60000000000002" y="307.1" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">@</text>
-<text x="251.0" y="307.1" fill="#6e7375" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="258.4" y="307.1" fill="#f6f7fb" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="140.0" y="318.4" fill="#a56d5a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="147.4" y="318.4" fill="#f1887e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="318.4" fill="#f08980" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="162.20000000000002" y="318.4" fill="#f78b87" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="169.6" y="318.4" fill="#da7f7f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="177.0" y="318.4" fill="#958380" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="184.4" y="318.4" fill="#f0fafa" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="191.8" y="318.4" fill="#eef3f5" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="199.20000000000002" y="318.4" fill="#4c4f52" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="206.60000000000002" y="318.4" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">@</text>
-<text x="214.0" y="318.4" fill="#687273" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="221.4" y="318.4" fill="#e8eff0" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="228.8" y="318.4" fill="#786f6d" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="236.20000000000002" y="318.4" fill="#c8bbb8" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="243.60000000000002" y="318.4" fill="#c1c1c2" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="251.0" y="318.4" fill="#d0d3d3" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="258.4" y="318.4" fill="#ab9292" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="265.8" y="318.4" fill="#7a584a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="140.0" y="329.70000000000005" fill="#cb766b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="147.4" y="329.70000000000005" fill="#f18882" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="329.70000000000005" fill="#ee8582" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="162.20000000000002" y="329.70000000000005" fill="#ed8682" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="169.6" y="329.70000000000005" fill="#f48781" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="177.0" y="329.70000000000005" fill="#c6726f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="184.4" y="329.70000000000005" fill="#9f8484" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="191.8" y="329.70000000000005" fill="#d7d7d7" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="199.20000000000002" y="329.70000000000005" fill="#e2e7e9" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="206.60000000000002" y="329.70000000000005" fill="#bec4c6" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="214.0" y="329.70000000000005" fill="#d3dddd" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="221.4" y="329.70000000000005" fill="#a18e88" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="228.8" y="329.70000000000005" fill="#c17270" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="236.20000000000002" y="329.70000000000005" fill="#d07a74" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="243.60000000000002" y="329.70000000000005" fill="#c37a73" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="251.0" y="329.70000000000005" fill="#be7970" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="258.4" y="329.70000000000005" fill="#da7d79" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="265.8" y="329.70000000000005" fill="#f28685" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="273.20000000000005" y="329.70000000000005" fill="#7f694d" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="132.60000000000002" y="341.0" fill="#756445" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="140.0" y="341.0" fill="#e5817c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="147.4" y="341.0" fill="#f18482" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="341.0" fill="#eb8781" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="162.20000000000002" y="341.0" fill="#ef8582" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="169.6" y="341.0" fill="#f0857e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="177.0" y="341.0" fill="#f1897f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="184.4" y="341.0" fill="#dd7f7b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="191.8" y="341.0" fill="#bd726e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="199.20000000000002" y="341.0" fill="#b27d77" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="341.0" fill="#b38583" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="214.0" y="341.0" fill="#b77777" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="221.4" y="341.0" fill="#d17b77" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="228.8" y="341.0" fill="#f28880" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="236.20000000000002" y="341.0" fill="#f5887c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="243.60000000000002" y="341.0" fill="#f68980" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="251.0" y="341.0" fill="#ee8781" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="258.4" y="341.0" fill="#db7972" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="265.8" y="341.0" fill="#c16960" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="273.20000000000005" y="341.0" fill="#815e46" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="280.6" y="341.0" fill="#6e6045" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="132.60000000000002" y="352.3" fill="#b17060" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="140.0" y="352.3" fill="#f38582" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="147.4" y="352.3" fill="#f08581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="352.3" fill="#eb8781" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="162.20000000000002" y="352.3" fill="#ef8580" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="169.6" y="352.3" fill="#ee8680" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="177.0" y="352.3" fill="#f08580" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="184.4" y="352.3" fill="#f1867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="191.8" y="352.3" fill="#f1887d" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="199.20000000000002" y="352.3" fill="#f0857e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="352.3" fill="#f08481" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="214.0" y="352.3" fill="#f18780" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="221.4" y="352.3" fill="#f1887f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="228.8" y="352.3" fill="#ec8b7d" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="236.20000000000002" y="352.3" fill="#ed827c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="243.60000000000002" y="352.3" fill="#cc6f6d" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="251.0" y="352.3" fill="#bf6461" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="258.4" y="352.3" fill="#cf706c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="265.8" y="352.3" fill="#dd7e77" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="273.20000000000005" y="352.3" fill="#ed8280" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="280.6" y="352.3" fill="#f38283" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="288.0" y="352.3" fill="#d17a71" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="295.40000000000003" y="352.3" fill="#717047" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="125.2" y="363.6" fill="#61633d" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="132.60000000000002" y="363.6" fill="#df8074" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="140.0" y="363.6" fill="#ef8780" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="147.4" y="363.6" fill="#ee867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="363.6" fill="#f0857f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="162.20000000000002" y="363.6" fill="#ef8580" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="169.6" y="363.6" fill="#ee8581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="177.0" y="363.6" fill="#ee8581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="184.4" y="363.6" fill="#ee8581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="191.8" y="363.6" fill="#ee8581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="199.20000000000002" y="363.6" fill="#f08481" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="363.6" fill="#ee867e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="214.0" y="363.6" fill="#ee897d" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="221.4" y="363.6" fill="#eb8682" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="228.8" y="363.6" fill="#c8706a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="236.20000000000002" y="363.6" fill="#ba645e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="243.60000000000002" y="363.6" fill="#d17570" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="251.0" y="363.6" fill="#ec867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="258.4" y="363.6" fill="#f08982" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="265.8" y="363.6" fill="#f08781" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="273.20000000000005" y="363.6" fill="#f38481" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="280.6" y="363.6" fill="#eb8781" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="288.0" y="363.6" fill="#f48684" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="295.40000000000003" y="363.6" fill="#aa745e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="125.2" y="374.90000000000003" fill="#896750" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="132.60000000000002" y="374.90000000000003" fill="#f0857f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="140.0" y="374.90000000000003" fill="#ed867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="147.4" y="374.90000000000003" fill="#ed857e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="374.90000000000003" fill="#f0857f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="162.20000000000002" y="374.90000000000003" fill="#ef8580" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="169.6" y="374.90000000000003" fill="#ee8581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="177.0" y="374.90000000000003" fill="#ee8581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="184.4" y="374.90000000000003" fill="#ee8581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="191.8" y="374.90000000000003" fill="#f18481" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="199.20000000000002" y="374.90000000000003" fill="#ef8480" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="374.90000000000003" fill="#eb8882" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="214.0" y="374.90000000000003" fill="#db7d77" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="221.4" y="374.90000000000003" fill="#b9635c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="228.8" y="374.90000000000003" fill="#cb736a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="236.20000000000002" y="374.90000000000003" fill="#ea8680" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="243.60000000000002" y="374.90000000000003" fill="#f38680" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="251.0" y="374.90000000000003" fill="#ef867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="258.4" y="374.90000000000003" fill="#ee867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="265.8" y="374.90000000000003" fill="#ee867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="273.20000000000005" y="374.90000000000003" fill="#ef8580" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="280.6" y="374.90000000000003" fill="#ed8681" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="288.0" y="374.90000000000003" fill="#f18582" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="295.40000000000003" y="374.90000000000003" fill="#d88177" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="302.8" y="374.90000000000003" fill="#686c43" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="125.2" y="386.20000000000005" fill="#7c594d" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="132.60000000000002" y="386.20000000000005" fill="#f48683" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="140.0" y="386.20000000000005" fill="#e9817b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="147.4" y="386.20000000000005" fill="#e57f79" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="386.20000000000005" fill="#f28581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="162.20000000000002" y="386.20000000000005" fill="#ef8580" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="169.6" y="386.20000000000005" fill="#ee8680" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="177.0" y="386.20000000000005" fill="#ee8680" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="184.4" y="386.20000000000005" fill="#ee8680" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="191.8" y="386.20000000000005" fill="#f28481" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="199.20000000000002" y="386.20000000000005" fill="#f08581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="386.20000000000005" fill="#e5827e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="214.0" y="386.20000000000005" fill="#b95f59" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="221.4" y="386.20000000000005" fill="#e38077" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="228.8" y="386.20000000000005" fill="#f18981" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="236.20000000000002" y="386.20000000000005" fill="#f08681" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="243.60000000000002" y="386.20000000000005" fill="#f08581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="251.0" y="386.20000000000005" fill="#ee867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="258.4" y="386.20000000000005" fill="#ee867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="265.8" y="386.20000000000005" fill="#ee867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="273.20000000000005" y="386.20000000000005" fill="#f08580" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="280.6" y="386.20000000000005" fill="#ee8581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="288.0" y="386.20000000000005" fill="#ec8681" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="295.40000000000003" y="386.20000000000005" fill="#f5847f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="302.8" y="386.20000000000005" fill="#9e7158" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="125.2" y="397.5" fill="#64585b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="132.60000000000002" y="397.5" fill="#bf7272" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="140.0" y="397.5" fill="#e37e78" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="147.4" y="397.5" fill="#ec817e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="397.5" fill="#ed8681" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="162.20000000000002" y="397.5" fill="#ee8480" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="169.6" y="397.5" fill="#ee867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="177.0" y="397.5" fill="#ee867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="184.4" y="397.5" fill="#ef877f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="191.8" y="397.5" fill="#ef8681" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="199.20000000000002" y="397.5" fill="#ee8581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="397.5" fill="#ed8480" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="214.0" y="397.5" fill="#ea837e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="221.4" y="397.5" fill="#ef8780" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="228.8" y="397.5" fill="#ee867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="236.20000000000002" y="397.5" fill="#ee867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="243.60000000000002" y="397.5" fill="#ee867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="251.0" y="397.5" fill="#ee867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="258.4" y="397.5" fill="#ee867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="265.8" y="397.5" fill="#ee867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="273.20000000000005" y="397.5" fill="#ef867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="280.6" y="397.5" fill="#ed887d" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="288.0" y="397.5" fill="#f0867c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="295.40000000000003" y="397.5" fill="#f58783" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="302.8" y="397.5" fill="#a46964" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="125.2" y="408.8" fill="#c6ccd2" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="132.60000000000002" y="408.8" fill="#b29994" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="140.0" y="408.8" fill="#d6766e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="147.4" y="408.8" fill="#f48381" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="408.8" fill="#e68981" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="162.20000000000002" y="408.8" fill="#ef857f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="169.6" y="408.8" fill="#ef867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="177.0" y="408.8" fill="#eb827b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="184.4" y="408.8" fill="#ee857f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="191.8" y="408.8" fill="#ef8581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="199.20000000000002" y="408.8" fill="#ef8481" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="408.8" fill="#f08481" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="214.0" y="408.8" fill="#f18581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="221.4" y="408.8" fill="#ee867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="228.8" y="408.8" fill="#ed867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="236.20000000000002" y="408.8" fill="#ed867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="243.60000000000002" y="408.8" fill="#ee867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="251.0" y="408.8" fill="#ef867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="258.4" y="408.8" fill="#ef857f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="265.8" y="408.8" fill="#f08781" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="273.20000000000005" y="408.8" fill="#e7867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="280.6" y="408.8" fill="#e2847b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="288.0" y="408.8" fill="#f58784" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="295.40000000000003" y="408.8" fill="#bb7276" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="302.8" y="408.8" fill="#b8a7ad" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="310.2" y="408.8" fill="#6a7265" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="317.6" y="408.8" fill="#89684f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="325.0" y="408.8" fill="#85724e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="332.40000000000003" y="408.8" fill="#6f6e49" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="125.2" y="420.1" fill="#edf4f5" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="132.60000000000002" y="420.1" fill="#f1e0dc" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="140.0" y="420.1" fill="#e47c76" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="147.4" y="420.1" fill="#f3847c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="420.1" fill="#ea8781" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="162.20000000000002" y="420.1" fill="#f0867a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="169.6" y="420.1" fill="#ef817b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="177.0" y="420.1" fill="#e57875" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="184.4" y="420.1" fill="#f18483" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="191.8" y="420.1" fill="#f08582" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="199.20000000000002" y="420.1" fill="#ef857f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="420.1" fill="#ee867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="214.0" y="420.1" fill="#ee867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="221.4" y="420.1" fill="#ee8581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="228.8" y="420.1" fill="#ee8581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="236.20000000000002" y="420.1" fill="#ee8581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="243.60000000000002" y="420.1" fill="#ee8681" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="251.0" y="420.1" fill="#ec8680" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="258.4" y="420.1" fill="#ef867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="265.8" y="420.1" fill="#e0837e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="273.20000000000005" y="420.1" fill="#ae645f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="280.6" y="420.1" fill="#a8655d" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="288.0" y="420.1" fill="#ac7170" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="295.40000000000003" y="420.1" fill="#bfb0b4" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="302.8" y="420.1" fill="#effafd" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="310.2" y="420.1" fill="#9d7a78" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="317.6" y="420.1" fill="#eb867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="325.0" y="420.1" fill="#f9837e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="332.40000000000003" y="420.1" fill="#eb817d" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="339.8" y="420.1" fill="#826b4e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="125.2" y="431.40000000000003" fill="#f3fafb" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="132.60000000000002" y="431.40000000000003" fill="#ebd8d5" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="140.0" y="431.40000000000003" fill="#e37876" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="147.4" y="431.40000000000003" fill="#f68380" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="431.40000000000003" fill="#ef8584" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="162.20000000000002" y="431.40000000000003" fill="#ec8175" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="169.6" y="431.40000000000003" fill="#d17167" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="177.0" y="431.40000000000003" fill="#db7d77" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="184.4" y="431.40000000000003" fill="#ec8379" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="191.8" y="431.40000000000003" fill="#f1857b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="199.20000000000002" y="431.40000000000003" fill="#f1867f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="431.40000000000003" fill="#f38780" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="214.0" y="431.40000000000003" fill="#f38680" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="221.4" y="431.40000000000003" fill="#f38582" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="228.8" y="431.40000000000003" fill="#f28582" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="236.20000000000002" y="431.40000000000003" fill="#f28582" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="243.60000000000002" y="431.40000000000003" fill="#f28582" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="251.0" y="431.40000000000003" fill="#f18680" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="258.4" y="431.40000000000003" fill="#f38a85" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="265.8" y="431.40000000000003" fill="#c06e6c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="273.20000000000005" y="431.40000000000003" fill="#b27172" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="280.6" y="431.40000000000003" fill="#9f7a7b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="288.0" y="431.40000000000003" fill="#5e6569" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="295.40000000000003" y="431.40000000000003" fill="#bac3c5" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="302.8" y="431.40000000000003" fill="#dfebe7" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="310.2" y="431.40000000000003" fill="#a6726f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="317.6" y="431.40000000000003" fill="#f48981" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="325.0" y="431.40000000000003" fill="#f58882" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="332.40000000000003" y="431.40000000000003" fill="#d37b72" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="339.8" y="431.40000000000003" fill="#6d6a45" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="125.2" y="442.70000000000005" fill="#deebe9" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="132.60000000000002" y="442.70000000000005" fill="#f3f5f1" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="140.0" y="442.70000000000005" fill="#e19b97" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="147.4" y="442.70000000000005" fill="#e27f7a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="154.8" y="442.70000000000005" fill="#e4807f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="162.20000000000002" y="442.70000000000005" fill="#df9e9b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="169.6" y="442.70000000000005" fill="#d6c2c2" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="177.0" y="442.70000000000005" fill="#bba8ac" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="184.4" y="442.70000000000005" fill="#b39795" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="191.8" y="442.70000000000005" fill="#b58984" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="199.20000000000002" y="442.70000000000005" fill="#b7827c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="442.70000000000005" fill="#c27c78" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="214.0" y="442.70000000000005" fill="#d07776" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="221.4" y="442.70000000000005" fill="#d27b75" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="228.8" y="442.70000000000005" fill="#d57b75" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="236.20000000000002" y="442.70000000000005" fill="#d57c77" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="243.60000000000002" y="442.70000000000005" fill="#d27c77" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="251.0" y="442.70000000000005" fill="#d07a79" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="258.4" y="442.70000000000005" fill="#bc7779" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="265.8" y="442.70000000000005" fill="#714f54" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="273.20000000000005" y="442.70000000000005" fill="#6c6267" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="280.6" y="442.70000000000005" fill="#606268" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="288.0" y="442.70000000000005" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">%</text>
-<text x="295.40000000000003" y="442.70000000000005" fill="#6d7070" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="302.8" y="442.70000000000005" fill="#c3c9c2" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="310.2" y="442.70000000000005" fill="#c07474" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="317.6" y="442.70000000000005" fill="#e78679" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="325.0" y="442.70000000000005" fill="#a97862" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="125.2" y="454.0" fill="#a1aea9" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="132.60000000000002" y="454.0" fill="#ffffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="140.0" y="454.0" fill="#f7f4f5" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="147.4" y="454.0" fill="#eddcd9" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="154.8" y="454.0" fill="#eee3de" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="162.20000000000002" y="454.0" fill="#f4f9f7" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="169.6" y="454.0" fill="#f9ffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="177.0" y="454.0" fill="#f9ffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="184.4" y="454.0" fill="#f5ffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="191.8" y="454.0" fill="#eff8f8" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="199.20000000000002" y="454.0" fill="#e4eeed" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="206.60000000000002" y="454.0" fill="#dbe4e2" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="214.0" y="454.0" fill="#d6dcd9" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="221.4" y="454.0" fill="#ced2cf" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="228.8" y="454.0" fill="#cbcac7" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="236.20000000000002" y="454.0" fill="#cbc4c1" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="243.60000000000002" y="454.0" fill="#ccc4c1" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="251.0" y="454.0" fill="#ccc7cb" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="258.4" y="454.0" fill="#4c4b52" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">#</text>
-<text x="265.8" y="454.0" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">%</text>
-<text x="273.20000000000005" y="454.0" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">%</text>
-<text x="280.6" y="454.0" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">%</text>
-<text x="288.0" y="454.0" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">%</text>
-<text x="295.40000000000003" y="454.0" fill="#7c8381" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="302.8" y="454.0" fill="#787d6f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="310.2" y="454.0" fill="#806d56" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="317.6" y="454.0" fill="#6c6c43" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="132.60000000000002" y="465.3" fill="#c8d3d0" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="140.0" y="465.3" fill="#fbffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="147.4" y="465.3" fill="#f7ffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="154.8" y="465.3" fill="#f5ffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="162.20000000000002" y="465.3" fill="#f4ffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="169.6" y="465.3" fill="#f7fefd" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="177.0" y="465.3" fill="#f9fefa" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="184.4" y="465.3" fill="#f6fffe" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="191.8" y="465.3" fill="#f9ffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="199.20000000000002" y="465.3" fill="#f8f1f3" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="206.60000000000002" y="465.3" fill="#f2dbdb" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="214.0" y="465.3" fill="#eed5d2" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="221.4" y="465.3" fill="#f1ded9" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="228.8" y="465.3" fill="#f4efeb" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="236.20000000000002" y="465.3" fill="#f6ffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="243.60000000000002" y="465.3" fill="#f6ffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="251.0" y="465.3" fill="#f5ffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="258.4" y="465.3" fill="#747b7e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="265.8" y="465.3" fill="#637286" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">%</text>
-<text x="273.20000000000005" y="465.3" fill="#6b7777" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="280.6" y="465.3" fill="#b9bdc2" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="288.0" y="465.3" fill="#b6bbbd" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="147.4" y="476.6" fill="#e3ece9" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="154.8" y="476.6" fill="#fbffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="162.20000000000002" y="476.6" fill="#fbffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="169.6" y="476.6" fill="#f9ffff" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="177.0" y="476.6" fill="#f2fffa" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="184.4" y="476.6" fill="#f7fbf7" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="191.8" y="476.6" fill="#e6c2bd" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="199.20000000000002" y="476.6" fill="#da8e87" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="476.6" fill="#e8807b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="214.0" y="476.6" fill="#ea7e7b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="221.4" y="476.6" fill="#eb807b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="228.8" y="476.6" fill="#e68583" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="236.20000000000002" y="476.6" fill="#df9c9c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="243.60000000000002" y="476.6" fill="#eacbc9" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="251.0" y="476.6" fill="#f9f4f9" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="258.4" y="476.6" fill="#f3f9fe" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="265.8" y="476.6" fill="#e7eff2" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="273.20000000000005" y="476.6" fill="#eaeeee" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="280.6" y="476.6" fill="#a6b2aa" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="162.20000000000002" y="487.90000000000003" fill="#b5bfb9" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="169.6" y="487.90000000000003" fill="#dae2e0" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="177.0" y="487.90000000000003" fill="#f4f7f5" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">:</text>
-<text x="184.4" y="487.90000000000003" fill="#eec7c4" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">-</text>
-<text x="191.8" y="487.90000000000003" fill="#e27d79" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="199.20000000000002" y="487.90000000000003" fill="#f18581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="487.90000000000003" fill="#f08583" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="214.0" y="487.90000000000003" fill="#f18582" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="221.4" y="487.90000000000003" fill="#f08480" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="228.8" y="487.90000000000003" fill="#f0847f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="236.20000000000002" y="487.90000000000003" fill="#ed837c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="243.60000000000002" y="487.90000000000003" fill="#e5807a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="251.0" y="487.90000000000003" fill="#dc9b9d" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="258.4" y="487.90000000000003" fill="#c3b6b0" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">=</text>
-<text x="184.4" y="499.20000000000005" fill="#8f755c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="191.8" y="499.20000000000005" fill="#c67466" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="199.20000000000002" y="499.20000000000005" fill="#e47f7a" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="206.60000000000002" y="499.20000000000005" fill="#ec8581" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="214.0" y="499.20000000000005" fill="#f58681" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="221.4" y="499.20000000000005" fill="#f68481" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="228.8" y="499.20000000000005" fill="#f18680" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="236.20000000000002" y="499.20000000000005" fill="#ee8680" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="243.60000000000002" y="499.20000000000005" fill="#f28480" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="251.0" y="499.20000000000005" fill="#f1817e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="258.4" y="499.20000000000005" fill="#b26d5f" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="199.20000000000002" y="510.5" fill="#616745" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="206.60000000000002" y="510.5" fill="#7f6b4c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="214.0" y="510.5" fill="#a6745b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="221.4" y="510.5" fill="#c57d6e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="228.8" y="510.5" fill="#e4807c" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="236.20000000000002" y="510.5" fill="#f68383" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="243.60000000000002" y="510.5" fill="#f48785" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="251.0" y="510.5" fill="#f68883" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="258.4" y="510.5" fill="#d58071" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">+</text>
-<text x="265.8" y="510.5" fill="#626640" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="228.8" y="521.8" fill="#646b44" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="236.20000000000002" y="521.8" fill="#866c51" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="243.60000000000002" y="521.8" fill="#a1725e" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="251.0" y="521.8" fill="#a3735b" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<text x="258.4" y="521.8" fill="#736d45" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" xml:space="preserve">*</text>
-<path d="M378 118V526" stroke="#30363d"/>
-<text x="406" y="137" fill="#ff9b94" font-family="Menlo,Consolas,monospace" font-size="23" font-weight="700" xml:space="preserve">owen@stanford</text>
-<text x="406" y="162" fill="#484f58" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">-------------------------------</text>
-<text x="406" y="190" fill="#79c0ff" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" xml:space="preserve">Name:</text>
-<text x="522" y="190" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">Haowen (Owen) Chen</text>
-<text x="406" y="216" fill="#79c0ff" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" xml:space="preserve">OS:</text>
-<text x="522" y="216" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">macOS / engineer mode</text>
-<text x="406" y="242" fill="#79c0ff" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" xml:space="preserve">Host:</text>
-<text x="522" y="242" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">Stanford University</text>
-<text x="406" y="268" fill="#79c0ff" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" xml:space="preserve">Kernel:</text>
-<text x="522" y="268" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">Mechanical → Environmental Eng.</text>
-<text x="406" y="294" fill="#79c0ff" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" xml:space="preserve">Uptime:</text>
-<text x="522" y="294" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">53 days on GitHub</text>
-<text x="406" y="320" fill="#79c0ff" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" xml:space="preserve">Education:</text>
-<text x="522" y="320" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">ZJU + UIUC → Stanford MS</text>
-<text x="406" y="346" fill="#79c0ff" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" xml:space="preserve">Focus:</text>
-<text x="522" y="346" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">Product design · Heat transfer</text>
-<text x="406" y="372" fill="#79c0ff" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" xml:space="preserve">Languages:</text>
-<text x="522" y="372" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">Python · MATLAB · Arduino</text>
-<text x="406" y="398" fill="#79c0ff" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" xml:space="preserve">Tools:</text>
-<text x="522" y="398" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">SolidWorks · Fluent · ROS</text>
-<text x="406" y="424" fill="#79c0ff" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" xml:space="preserve">Side quests:</text>
-<text x="522" y="424" fill="#c9d1d9" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="400" xml:space="preserve">Prototyping · Robotics · Road trips</text>
-<rect x="406" y="508" width="27" height="16" fill="#ff7b72"/>
-<rect x="433" y="508" width="27" height="16" fill="#ffa657"/>
-<rect x="460" y="508" width="27" height="16" fill="#e3b341"/>
-<rect x="487" y="508" width="27" height="16" fill="#7ee787"/>
-<rect x="514" y="508" width="27" height="16" fill="#79c0ff"/>
-<rect x="541" y="508" width="27" height="16" fill="#d2a8ff"/>
-<rect x="568" y="508" width="27" height="16" fill="#ff9bce"/>
-<rect x="595" y="508" width="27" height="16" fill="#c9d1d9"/>
-<path d="M28 548H1012" stroke="#30363d"/>
-<text x="32" y="576" fill="#8b949e" font-family="Menlo,Consolas,monospace" font-size="11" font-weight="400" xml:space="preserve">PUBLIC REPOS</text>
-<text x="32" y="609" fill="#7ee787" font-family="Menlo,Consolas,monospace" font-size="26" font-weight="700" xml:space="preserve">1</text>
-<text x="281" y="576" fill="#8b949e" font-family="Menlo,Consolas,monospace" font-size="11" font-weight="400" xml:space="preserve">STARS / OWNED</text>
-<text x="281" y="609" fill="#7ee787" font-family="Menlo,Consolas,monospace" font-size="26" font-weight="700" xml:space="preserve">0</text>
-<text x="530" y="576" fill="#8b949e" font-family="Menlo,Consolas,monospace" font-size="11" font-weight="400" xml:space="preserve">COMMITS / 365D</text>
-<text x="530" y="609" fill="#7ee787" font-family="Menlo,Consolas,monospace" font-size="26" font-weight="700" xml:space="preserve">10</text>
-<text x="779" y="576" fill="#8b949e" font-family="Menlo,Consolas,monospace" font-size="11" font-weight="400" xml:space="preserve">CONTRIBS / 365D</text>
-<text x="779" y="609" fill="#7ee787" font-family="Menlo,Consolas,monospace" font-size="26" font-weight="700" xml:space="preserve">12</text>
-<text x="32" y="640" fill="#8b949e" font-family="Menlo,Consolas,monospace" font-size="11" font-weight="400" xml:space="preserve">public GitHub activity · refreshed daily</text>
-<text x="690" y="640" fill="#8b949e" font-family="Menlo,Consolas,monospace" font-size="11" font-weight="400" xml:space="preserve">updated 2026-11-18 07:44 UTC</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1110" height="640" viewBox="0 0 1110 640" role="img" aria-labelledby="title desc">
+<title id="title">Owen Chen | neofetch</title>
+<desc id="desc">Monochrome ASCII Patrick portrait, engineering profile, and daily public GitHub statistics.</desc>
+<rect width="1110" height="640" rx="18" fill="#161b22"/>
+<style>text,tspan{white-space:pre}text{font-family:Menlo,Consolas,"Liberation Mono",monospace;font-weight:400}.key{fill:#ffa657}.value{fill:#a5d6ff}.muted{fill:#616e7f}.text{fill:#c9d1d9}</style>
+<text x="14" y="80.0" fill="#c9d1d9" font-size="14" textLength="0.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve"></text>
+<text x="14" y="96.8" fill="#c9d1d9" font-size="14" textLength="126.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         L0OQQ0</text>
+<text x="14" y="113.6" fill="#c9d1d9" font-size="14" textLength="168.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">      ZLJUUUUUUJJL00</text>
+<text x="14" y="130.4" fill="#c9d1d9" font-size="14" textLength="184.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     pUJCCJJCCJJCJJLmb</text>
+<text x="14" y="147.2" fill="#c9d1d9" font-size="14" textLength="201.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     LJCJJJCJJQOUXYt:,;,</text>
+<text x="14" y="164.0" fill="#c9d1d9" font-size="14" textLength="210.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     JCULLJJC0x,,,,,,,,,,</text>
+<text x="14" y="180.8" fill="#c9d1d9" font-size="14" textLength="218.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    OJJLZOm0j,,,,,,,,,,,,,</text>
+<text x="14" y="197.6" fill="#c9d1d9" font-size="14" textLength="226.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    wJZ     ,,,,,,,;i!!i!:v</text>
+<text x="14" y="214.4" fill="#c9d1d9" font-size="14" textLength="235.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    ,,,      ,,,!!;!;;;;!!;f</text>
+<text x="14" y="231.2" fill="#c9d1d9" font-size="14" textLength="243.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  ,,,,,,       !!;!!;;;;;;;;c</text>
+<text x="14" y="248.0" fill="#c9d1d9" font-size="14" textLength="260.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   ,,,,,       x:;;;;|||i!fi;j0</text>
+<text x="14" y="264.8" fill="#c9d1d9" font-size="14" textLength="268.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">               n;i|!fi:!!UtjWq,,</text>
+<text x="14" y="281.6" fill="#c9d1d9" font-size="14" textLength="268.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">               n:c$$|,U@c,,,$$j,</text>
+<text x="14" y="298.4" fill="#c9d1d9" font-size="14" textLength="268.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">               r:jjc,,!$$;,:!n,,</text>
+<text x="14" y="315.2" fill="#c9d1d9" font-size="14" textLength="277.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">               |;;;;f,,,j,:x:,;||</text>
+<text x="14" y="332.0" fill="#c9d1d9" font-size="14" textLength="294.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">              c;;!;;;j|;:!|;;!|ijvn</text>
+<text x="14" y="348.8" fill="#c9d1d9" font-size="14" textLength="302.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">              |;;;;!!;;!!;:!|jji!;:!</text>
+<text x="14" y="365.6" fill="#c9d1d9" font-size="14" textLength="310.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             x;;!!!;;;;;;!tti;::;;!;f</text>
+<text x="14" y="382.4" fill="#c9d1d9" font-size="14" textLength="310.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             Y;;!;;;;;!;iri::;;;;!!!!</text>
+<text x="14" y="399.2" fill="#c9d1d9" font-size="14" textLength="319.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             t|i!;!;;;!!;;;!;;;!!:;;it</text>
+<text x="14" y="416.0" fill="#c9d1d9" font-size="14" textLength="352.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             ,,|;;;!!;;;;!;;!;!;!fji,,x!!|</text>
+<text x="14" y="432.8" fill="#c9d1d9" font-size="14" textLength="352.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             ,,|;!!jii!!!!!;!;!:nixn,,j,:j</text>
+<text x="14" y="449.6" fill="#c9d1d9" font-size="14" textLength="344.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             ,,,:,,,,,,::;;!i!!XmQb@,||ir</text>
+<text x="14" y="466.4" fill="#c9d1d9" font-size="14" textLength="302.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">              ,,,,,,,,,,,,,,,,,kocii</text>
+<text x="14" y="483.2" fill="#c9d1d9" font-size="14" textLength="285.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">               ,,,,,,,,:;;;:,,,,,,</text>
+<text x="14" y="500.0" fill="#c9d1d9" font-size="14" textLength="268.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                   ,,,!:;;;!!i:;</text>
+<text x="14" y="516.8" fill="#c9d1d9" font-size="14" textLength="268.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                      ttji;:::;t</text>
+<text x="14" y="533.6" fill="#c9d1d9" font-size="14" textLength="268.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                           tj|jt</text>
+<text x="14" y="550.4" fill="#c9d1d9" font-size="14" textLength="0.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve"></text>
+<text x="394" y="35" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="58" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="81" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="104" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="127" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="150" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="173" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="196" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="219" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="242" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="265" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="288" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="311" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="334" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="357" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="380" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="403" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="426" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="449" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="472" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="495" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="518" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="541" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="564" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="394" y="587" fill="#616e7f" font-size="16" xml:space="preserve">·</text>
+<text x="414" y="35" fill="#c9d1d9" font-size="16" xml:space="preserve">owen@stanford</text>
+<path d="M548.4 30H1086" stroke="#c9d1d9" stroke-width="1.2"/>
+<text x="414" y="58" font-size="16" textLength="672.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="key">Name:</tspan><tspan class="muted"> ............................................. </tspan><tspan class="value">Haowen (Owen) Chen</tspan></text>
+<text x="414" y="81" font-size="16" textLength="672.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="key">OS:</tspan><tspan class="muted"> ............................................................ </tspan><tspan class="value">macOS</tspan></text>
+<text x="414" y="104" font-size="16" textLength="672.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="key">Uptime:</tspan><tspan class="muted"> ............................................ </tspan><tspan class="value">53 days on GitHub</tspan></text>
+<text x="414" y="127" font-size="16" textLength="672.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="key">Host:</tspan><tspan class="muted"> ............................................ </tspan><tspan class="value">Stanford University</tspan></text>
+<text x="414" y="150" font-size="16" textLength="672.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="key">Kernel:</tspan><tspan class="muted"> ................................. </tspan><tspan class="value">MS Environmental Engineering</tspan></text>
+<text x="414" y="173" font-size="16" textLength="672.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="key">Education:</tspan><tspan class="muted"> ....................... </tspan><tspan class="value">ZJU + UIUC / Mechanical Engineering</tspan></text>
+<text x="414" y="196" font-size="16" textLength="672.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="key">IDE:</tspan><tspan class="muted"> ................................................ </tspan><tspan class="value">VS Code, Jupyter</tspan></text>
+<text x="414" y="242" font-size="16" textLength="672.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="key">Languages.Programming:</tspan><tspan class="muted"> ............................. </tspan><tspan class="value">Python, MATLAB, R</tspan></text>
+<text x="414" y="265" font-size="16" textLength="672.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="key">Tools.CAD:</tspan><tspan class="muted"> .............................. </tspan><tspan class="value">SolidWorks, Fusion 360, Creo</tspan></text>
+<text x="414" y="288" font-size="16" textLength="672.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="key">Tools.Simulation:</tspan><tspan class="muted"> ............................... </tspan><tspan class="value">ANSYS Fluent, Abaqus</tspan></text>
+<text x="414" y="334" font-size="16" textLength="672.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="key">Focus:</tspan><tspan class="muted"> ............................... </tspan><tspan class="value">Product Design, Thermal Systems</tspan></text>
+<text x="414" y="357" font-size="16" textLength="672.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="key">Hobbies.Software:</tspan><tspan class="muted"> ............................ </tspan><tspan class="value">Robotics, Building Apps</tspan></text>
+<text x="414" y="380" font-size="16" textLength="672.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="key">Hobbies.Hardware:</tspan><tspan class="muted"> ........................... </tspan><tspan class="value">3D Printing, Prototyping</tspan></text>
+<text x="414" y="403" font-size="16" textLength="672.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="key">Side.Quests:</tspan><tspan class="muted"> .............................. </tspan><tspan class="value">Road Trips, National Parks</tspan></text>
+<text x="414" y="449" fill="#c9d1d9" font-size="16" xml:space="preserve">Contact</text>
+<path d="M490.8 444H1086" stroke="#c9d1d9" stroke-width="1.2"/>
+<text x="414" y="472" font-size="16" textLength="672.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="key">GitHub:</tspan><tspan class="muted"> .................................... </tspan><tspan class="value">github.com/OwenHaowenChen</tspan></text>
+<text x="414" y="495" font-size="16" textLength="672.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="key">Project:</tspan><tspan class="muted"> ................................................. </tspan><tspan class="value">Focus Flock</tspan></text>
+<text x="414" y="541" fill="#c9d1d9" font-size="16" xml:space="preserve">GitHub Stats / public</text>
+<path d="M625.2 536H1086" stroke="#c9d1d9" stroke-width="1.2"/>
+<text x="414" y="564" font-size="16" textLength="672.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="key">Repos:</tspan><tspan class="muted"> ........................ </tspan><tspan class="value">1</tspan><tspan class="text"> | </tspan><tspan class="key">Stars:</tspan><tspan class="muted"> ......................... </tspan><tspan class="value">0</tspan></text>
+<text x="414" y="587" font-size="16" textLength="672.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="key">Commits.365d:</tspan><tspan class="muted"> ................ </tspan><tspan class="value">10</tspan><tspan class="text"> | </tspan><tspan class="key">Followers:</tspan><tspan class="muted"> ..................... </tspan><tspan class="value">0</tspan></text>
+<text x="414" y="610" font-size="16" textLength="672.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan class="key">Contributions.365d:</tspan><tspan class="muted"> ............................................... </tspan><tspan class="value">12</tspan></text>
 </svg>

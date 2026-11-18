@@ -44,47 +44,78 @@ def collect():
 def render(stats):
     now = dt.datetime.now(dt.timezone.utc)
     created = dt.datetime.fromisoformat(stats['created_at'].replace('Z', '+00:00'))
-    age = (now-created).days
-    svg = ['<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="660" viewBox="0 0 1040 660" role="img" aria-labelledby="title desc">', '<title id="title">Owen Chen | terminal profile</title>', '<desc id="desc">Color ASCII Patrick in a Santa hat beside Owen\'s engineering background and automatically refreshed public GitHub statistics.</desc>', '<rect x="1" y="1" width="1038" height="658" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>', '<path d="M19 1H1021Q1039 1 1039 19V53H1V19Q1 1 19 1" fill="#161b22"/>']
-    def text(x,y,value,size=16,color='#c9d1d9',bold=False):
-        weight='700' if bold else '400'
-        svg.append(f'<text x="{x}" y="{y}" fill="{color}" font-family="Menlo,Consolas,monospace" font-size="{size}" font-weight="{weight}" xml:space="preserve">{html.escape(str(value))}</text>')
-    for x,color in [(25,'#ff5f57'),(47,'#febc2e'),(69,'#28c840')]:
-        svg.append(f'<circle cx="{x}" cy="27" r="6" fill="{color}"/>')
-    text(380,32,'owen@stanford: ~',14,'#8b949e')
-    text(30,87,'❯',19,'#7ee787')
-    text(54,87,'neofetch --user owen',16,'#c9d1d9')
+    days = (now-created).days
+    svg = ['<svg xmlns="http://www.w3.org/2000/svg" width="1110" height="640" viewBox="0 0 1110 640" role="img" aria-labelledby="title desc">',
+           '<title id="title">Owen Chen | neofetch</title>',
+           '<desc id="desc">Monochrome ASCII Patrick portrait, engineering profile, and daily public GitHub statistics.</desc>',
+           '<rect width="1110" height="640" rx="18" fill="#161b22"/>',
+           '<style>text,tspan{white-space:pre}text{font-family:Menlo,Consolas,"Liberation Mono",monospace;font-weight:400}.key{fill:#ffa657}.value{fill:#a5d6ff}.muted{fill:#616e7f}.text{fill:#c9d1d9}</style>']
+    # A single monospace grid keeps all dot leaders and right edges aligned.
+    X, CELL, COLS = 414, 9.6, 70
+    def text(x,y,value,color='#c9d1d9',size=16):
+        svg.append(f'<text x="{x}" y="{y}" fill="{color}" font-size="{size}" xml:space="preserve">{html.escape(str(value))}</text>')
+    def segments(y,parts):
+        count=sum(len(str(value)) for _,value in parts)
+        if count>COLS:
+            raise ValueError(f'Profile row exceeds {COLS} columns: {parts}')
+        nodes=''.join(f'<tspan class="{kind}">{html.escape(str(value))}</tspan>' for kind,value in parts)
+        svg.append(f'<text x="{X}" y="{y}" font-size="16" textLength="{count*CELL}" lengthAdjust="spacingAndGlyphs" xml:space="preserve">{nodes}</text>')
+    def row(index,label,value):
+        label+=':'
+        value=str(value)
+        gap=COLS-len(label)-len(value)
+        if gap<3:
+            raise ValueError(f'Not enough room for {label}')
+        segments(35+index*23, [('key',label),('muted',' '+'.'*(gap-2)+' '),('value',value)])
+    def heading(index,label):
+        value=label+' '
+        y=35+index*23
+        text(X,y,label)
+        svg.append(f'<path d="M{X+len(value)*CELL} {y-5}H1086" stroke="#c9d1d9" stroke-width="1.2"/>')
+    # Render each ASCII row as text rather than hundreds of disconnected pixels.
     art=json.loads((ROOT/'avatar.json').read_text())
-    for row_index,row in enumerate(art):
-        for col,cell in enumerate(row):
-            if cell:
-                text(29+col*7.4,115+row_index*11.3,cell[0],12,cell[1],True)
-    svg.append('<path d="M378 118V526" stroke="#30363d"/>')
-    text(406,137,'owen@stanford',23,'#ff9b94',True)
-    text(406,162,'-------------------------------',15,'#484f58')
-    fields=[('Name','Haowen (Owen) Chen'),('OS','macOS / engineer mode'),('Host','Stanford University'),('Kernel','Mechanical → Environmental Eng.'),('Uptime',f'{age} days on GitHub'),('Education','ZJU + UIUC → Stanford MS'),('Focus','Product design · Heat transfer'),('Languages','Python · MATLAB · Arduino'),('Tools','SolidWorks · Fluent · ROS'),('Side quests','Prototyping · Robotics · Road trips')]
-    for i,(label,value) in enumerate(fields):
-        y=190+i*26
-        text(406,y,label+':',15,'#79c0ff',True)
-        text(522,y,value,15)
-    for i,color in enumerate(['#ff7b72','#ffa657','#e3b341','#7ee787','#79c0ff','#d2a8ff','#ff9bce','#c9d1d9']):
-        svg.append(f'<rect x="{406+i*27}" y="508" width="27" height="16" fill="{color}"/>')
-    svg.append('<path d="M28 548H1012" stroke="#30363d"/>')
-    metrics=[('PUBLIC REPOS',stats['repos']),('STARS / OWNED',stats['stars']),('COMMITS / 365D',stats['commits']),('CONTRIBS / 365D',stats['contributions'])]
-    for i,(label,value) in enumerate(metrics):
-        x=32+i*249
-        text(x,576,label,11,'#8b949e')
-        text(x,609,f'{value:,}' if isinstance(value,int) else value,26,'#7ee787',True)
-    text(32,640,'public GitHub activity · refreshed daily',11,'#8b949e')
-    text(690,640,'updated '+now.strftime('%Y-%m-%d %H:%M UTC'),11,'#8b949e')
+    for i,line in enumerate(art):
+        length=len(line)*8.4
+        svg.append(f'<text x="14" y="{80+i*16.8:.1f}" fill="#c9d1d9" font-size="14" textLength="{length:.2f}" lengthAdjust="spacingAndGlyphs" xml:space="preserve">{html.escape(line)}</text>')
+    # The dotted vertical separator follows the same rhythm as the information.
+    for i in range(25):
+        text(394,35+i*23,'·','#616e7f')
+    heading(0,'owen@stanford')
+    row(1,'Name','Haowen (Owen) Chen')
+    row(2,'OS','macOS')
+    row(3,'Uptime',f'{days} days on GitHub')
+    row(4,'Host','Stanford University')
+    row(5,'Kernel','MS Environmental Engineering')
+    row(6,'Education','ZJU + UIUC / Mechanical Engineering')
+    row(7,'IDE','VS Code, Jupyter')
+    row(9,'Languages.Programming','Python, MATLAB, R')
+    row(10,'Tools.CAD','SolidWorks, Fusion 360, Creo')
+    row(11,'Tools.Simulation','ANSYS Fluent, Abaqus')
+    row(13,'Focus','Product Design, Thermal Systems')
+    row(14,'Hobbies.Software','Robotics, Building Apps')
+    row(15,'Hobbies.Hardware','3D Printing, Prototyping')
+    row(16,'Side.Quests','Road Trips, National Parks')
+    heading(18,'Contact')
+    row(19,'GitHub','github.com/OwenHaowenChen')
+    row(20,'Project','Focus Flock')
+    heading(22,'GitHub Stats / public')
+    def num(key):
+        value=stats[key]
+        return f'{value:,}' if isinstance(value,int) else str(value)
+    def pair(index,leftkey,leftval,rightkey,rightval):
+        leftlabel=leftkey+':'
+        rightlabel=rightkey+':'
+        leftgap=33-len(leftlabel)-len(leftval)
+        rightgap=34-len(rightlabel)-len(rightval)
+        segments(35+index*23,[('key',leftlabel),('muted',' '+'.'*(leftgap-2)+' '),('value',leftval),('text',' | '),('key',rightlabel),('muted',' '+'.'*(rightgap-2)+' '),('value',rightval)])
+    pair(23,'Repos',num('repos'),'Stars',num('stars'))
+    pair(24,'Commits.365d',num('commits'),'Followers',num('followers'))
+    row(25,'Contributions.365d',num('contributions'))
     svg.append('</svg>')
     return '\n'.join(svg)+'\n'
 
 def main():
-    if os.environ.get('PROFILE_PREVIEW'):
-        stats=json.loads((ROOT/'preview-stats.json').read_text())
-    else:
-        stats=collect()
+    stats=collect()
     (ROOT/'profile.svg').write_text(render(stats))
     print('Rendered profile.svg')
 
