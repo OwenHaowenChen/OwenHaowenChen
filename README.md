@@ -1,16 +1,17 @@
-## Hi there 👋
+<a href="https://github.com/OwenHaowenChen"><img src="./profile.svg" alt="Owen Chen's terminal profile: engineering, heat transfer, code, and a little Patrick energy." width="100%" /></a>
 
-<!--
-**OwenHaowenChen/OwenHaowenChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building things where **mechanical design, heat transfer, and code** meet.
 
-Here are some ideas to get you started:
+[GitHub](https://github.com/OwenHaowenChen) · [Focus Flock](https://github.com/CS193V-FOCUS-FLOCK/Final-Project-FOCUS-FLOCK)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary><code>cat about-this-terminal.txt</code></summary>
+
+- Stanford MS in Civil & Environmental Engineering; mechanical engineering degrees from ZJU and UIUC.
+- Interested in product design, thermal systems, robotics, and hands-on prototyping.
+- The ASCII mascot comes from my uploaded Patrick picture.
+- GitHub Actions refreshes the card daily. Uptime means account age.
+- Repository counts are public owned repositories. Stars exclude forks. Commits and contributions use GitHub's rolling one-year contribution window and the data visible to the workflow token.
+- Customize the profile in `update_profile.py`; the character art is in `avatar.json`.
+
+</details>
